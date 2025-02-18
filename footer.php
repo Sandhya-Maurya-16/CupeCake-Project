@@ -47,7 +47,7 @@
                     <p class="copyright">
                         Copyright &copy; 2025 All rights reserved |
                         template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="#"
-                            target="_blank">Colorlib</a>
+                            target="_blank">Sandhya Maurya</a>
                     </p>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12">
